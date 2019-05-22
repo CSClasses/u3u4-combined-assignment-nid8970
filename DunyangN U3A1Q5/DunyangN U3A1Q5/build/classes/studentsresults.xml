@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><root>
+    
+<student>
+<name>a</name>
+<age>1</age>
+<math>1.0</math>
+<english>1.0</english>
+<cs>1.0</cs>
+</student>
+<student>
+<name>b</name>
+<age>2</age>
+<math>0</math>
+<english>11.0</english>
+<cs>1.0</cs>
+</student>
+<student>
+<name>c</name>
+<age>1</age>
+<math>2.0</math>
+<english>3.0</english>
+<cs>4.0</cs>
+</student>
+<student>
+<name>d</name>
+<age>3</age>
+<math>4.0</math>
+<english>5.0</english>
+<cs>6.0</cs>
+</student>
+<student>
+<name>a</name>
+<age>1</age>
+<math>1.0</math>
+<english>1.0</english>
+<cs>1.0</cs>
+</student>
+</root>
